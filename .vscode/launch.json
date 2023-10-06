@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Python: Train MLPNet",
+            "type": "python",
+            "request": "launch",
+            "program": "/workspaces/MLP_PL_demo/train_pl_model.py"
+        }
+    ]
+}
